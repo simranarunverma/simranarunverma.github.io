@@ -167,7 +167,7 @@ float:left;}
 { text-align: left;
   float: left;
   width: 595px;
-  padding: 0;}
+  padding: auto;}
 
 #content ul
 { margin: 2px 0 22px 0px;}
