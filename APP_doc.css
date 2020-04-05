@@ -186,7 +186,7 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 
 #content
 { text-align: left;
-  float: left;
+  float: right;
   width: 595px;
   padding: 0;}
 
