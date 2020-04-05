@@ -166,7 +166,7 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 { text-align: left;
   float: left;
   width: 595px;
-  padding: auto;}
+  padding: 100px 100px;}
 
 #content ul
 { margin: 2px 0 22px 0px;}
