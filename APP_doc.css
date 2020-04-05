@@ -127,10 +127,10 @@ ol li
 { width: 900px;
   height: 72px;
   padding: 0;
-  background: transparent url(transparent_light.png) repeat;}
+  background: transparent url(transparent_light.png) fixed;}
 
 ul#menu, ul#menu li
-{ float: left;
+{ float: right;
   margin: 0;
   padding: 0;}
 
@@ -141,7 +141,7 @@ ul#menu li a
 { letter-spacing: 0.1em;
   font: normal 100% arial, sans-serif;
   display: block;
-  float: left;
+  float: right;
   height: 37px;
   padding: 29px 26px 6px 26px;
   text-align: center;
